@@ -1,0 +1,2 @@
+# flask_usdjpy_gru_app
+flaskを使用して、gunicornとapache2でUSDJPYの1時間足の予測を訓練済みGRUモデルで実施するアプリ
